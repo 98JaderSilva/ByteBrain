@@ -1,0 +1,98 @@
+{
+    "enterprises": [
+        {
+            "name": "Alpha",
+            "cnpjOrCpf": "1",
+            "address": "Rua a",
+            "phone": "5140028922",
+            "email": "alpha@alpha.com",
+            "activity": "Madeira",
+            "owner": "Manuel",
+            "id": 1
+        },
+        {
+            "name": "Beta",
+            "cnpjOrCpf": "2",
+            "address": "Rua b",
+            "phone": "5140028922",
+            "email": "beta@beta.com",
+            "activity": "Pedra",
+            "owner": "Jose",
+            "id": 2
+        },
+        {
+            "name": "Gamma",
+            "cnpjOrCpf": "3",
+            "address": "Rua c",
+            "phone": "5140028922",
+            "email": "gamma@gamma.com",
+            "activity": "Metal",
+            "owner": "Maria",
+            "id": 3
+        },
+        {
+            "name": "Delta",
+            "cnpjOrCpf": "4",
+            "address": "Rua d",
+            "phone": "5140028922",
+            "email": "delta@delta.com",
+            "activity": "Papel",
+            "owner": "Carlos",
+            "id": 4
+        },
+        {
+            "name": "Epsilon",
+            "cnpjOrCpf": "5",
+            "address": "Rua e",
+            "phone": "5140028922",
+            "email": "epsilon@epsilon.com",
+            "activity": "Plástico",
+            "owner": "Ana",
+            "id": 5
+        }
+    ],
+    "users": [
+        {
+            "name": "Joao A",
+            "responsibility": "Contador",
+            "email": "joao@alpha.com",
+            "cnpjOrCpf": "1",
+            "id": 1
+        },
+        {
+            "name": "Marcia B",
+            "responsibility": "Contadora",
+            "email": "marcia@beta.com",
+            "cnpjOrCpf": "2",
+            "id": 2
+        },
+        {
+            "name": "Pedro C",
+            "responsibility": "Gerente",
+            "email": "pedro@gamma.com",
+            "cnpjOrCpf": "3",
+            "id": 3
+        },
+        {
+            "name": "Luis D",
+            "responsibility": "Analista",
+            "email": "luis@delta.com",
+            "cnpjOrCpf": "4",
+            "id": 4
+        },
+        {
+            "name": "Sofia E",
+            "responsibility": "Desenvolvedora",
+            "email": "sofia@epsilon.com",
+            "cnpjOrCpf": "5",
+            "id": 5
+        },
+        {
+            "name": "Matheus F",
+            "responsibility": "Desenvolvedor",
+            "email": "matheus@epsilon.com",
+            "cnpjOrCpf": "5",
+            "id": 6
+        }
+    ]
+}
