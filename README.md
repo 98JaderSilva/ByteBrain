@@ -21,3 +21,5 @@ Runs the json-server in the development mode.
 Runs the app and json-server in the development mode.\
 
 ### `npm run build`
+
+William Medeiros.
